@@ -17,5 +17,8 @@ B
   C This might be hidden
 </div>
 
-D
+<div style="color:blue;">
+  D This might be blue
+</div>
+
 
