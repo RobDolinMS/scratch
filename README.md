@@ -21,4 +21,7 @@ B
   D This might be blue
 </div>
 
+<div onclick="javascript:alert('hello');">
+  E Try to click me
+</div>
 
